@@ -1,6 +1,5 @@
 #------------------------------
 # this code made by USF_reda
-# thank you eng.momen
 #------------------------------
 
 
